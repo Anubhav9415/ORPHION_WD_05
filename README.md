@@ -78,8 +78,7 @@ Free to use for personal and educational purposes.
 ## 📸 Preview
 
 
-![Weather Dashboard Preview](<img width="1664" height="874" alt="Screenshot 2026-02-07 233413" src="https://github.com/user-attachments/assets/1b3f7190-c396-4934-844c-b71fed3a1d91" />
-)
+<img width="1664" height="874" alt="Screenshot 2026-02-07 233413" src="https://github.com/user-attachments/assets/1b3f7190-c396-4934-844c-b71fed3a1d91" />
 
 <img width="1434" height="876" alt="Screenshot 2026-02-07 233445" src="https://github.com/user-attachments/assets/62071dc6-eae4-4900-8e49-594213218912" />
 
